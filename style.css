@@ -5,3 +5,12 @@ body{
 strong{
     color:aqua;
 }
+h1{
+            font-weight: bold;
+}
+ 
+span{
+            color: #22D4FD;
+            border: 1px solid #22D4FD;
+            padding: 10px;
+}
