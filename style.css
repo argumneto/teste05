@@ -2,7 +2,9 @@ body{
     background-color: rgb(224, 59, 59);
     color:white;
 }
-
+strong {
+    color:red;
+}
 h1{
             font-weight: bold;
 }
