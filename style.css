@@ -2,8 +2,11 @@ body{
     background-color: rgb(27, 18, 18);
     color:white;
 }
-strong {
-    color:red;
-
-}
+ h1 {
+    margin: 20px;
+    padding:10px;
+    text-align: center;
+    font-size: 36px;
+    color:aqua;
+ }
  
