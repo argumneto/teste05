@@ -12,6 +12,6 @@ body{
 .grid-imagens{
    display: grid;
    grid-template-columns: reapeat(2,1 Fr);
-   gap: 10px;
+   gap: 100px;
 } 
  
