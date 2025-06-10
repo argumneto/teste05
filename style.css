@@ -14,4 +14,6 @@ body{
    grid-template-columns: reapeat(2,1 Fr);
    gap: 10px;
 } 
- 
+ p {
+   font-size: 30px;
+ }
